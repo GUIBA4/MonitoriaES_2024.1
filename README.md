@@ -24,3 +24,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 | **Deploy**    | 11/09/2024 | 17:00 até 18:40 | Lucas                                                                              |
 
 ## 👨🏽‍💻👩🏻‍💻 Lista de Estudantes
+- Isaque Teixeira Diniz
