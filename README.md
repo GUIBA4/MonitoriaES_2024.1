@@ -27,3 +27,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 - Isaque Teixeira Diniz
 - Danilo Wanderley Lapa
 - João Pedro Silva da Rocha
+- José Ronaldo de Souza Silva
