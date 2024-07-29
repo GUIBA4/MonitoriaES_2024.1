@@ -25,3 +25,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 
 ## 👨🏽‍💻👩🏻‍💻 Lista de Estudantes
 - Isaque Teixeira Diniz
+- Danilo Wanderley Lapa
