@@ -1,13 +1,13 @@
 # MonitoriaES_2024.1
 
-Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vocês como atividade da primeira monitoria da disciplina. È uma atividade bem simples, mas que vai fixar os assuntos de Git para vocês. Qualquer dúvida, so perguntar :))
+Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vocês como atividade da primeira monitoria da disciplina. È uma atividade bem simples, mas que vai fixar os assuntos de Git para vocês. Qualquer dúvida, só perguntar. Insira seu nome na coluna abaixo! :)) 
 
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/42525687/203692147-cb274f74-7e73-4869-b460-1dc967fb4786.png" alt="logo" width="200" height="auto" style="border-radius:20px;" />
 
   <h3>
-    [IF977] - ENGENHARIA DE SOFTWARE - CIN UFPE - João Pedro Silva da Rocha
+    [IF977] - ENGENHARIA DE SOFTWARE - CIN UFPE
   </h3>
 
 </div>
@@ -23,6 +23,7 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 | **Backend**   | 28/08/2024 | 17:00 até 18:40 | [Sidney](https://github.com/silvercent011), Valter                                 |
 | **Deploy**    | 11/09/2024 | 17:00 até 18:40 | Lucas                                                                              |
 
-## 👨🏽‍💻👩🏻‍💻 Lista de Estudantes
+## 👨🏽‍💻👩🏻‍💻 Lista de Estudantes (Insira seu nome abaixo)
 - Isaque Teixeira Diniz
 - Danilo Wanderley Lapa
+- João Pedro Silva da Rocha
