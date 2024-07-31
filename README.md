@@ -29,3 +29,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 - João Pedro Silva da Rocha
 - José Ronaldo de Souza Silva
 - Luiz Henrique Brito Almeida da Silva
+- Shellyda de Fátima Silva Barbosa
