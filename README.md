@@ -31,3 +31,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 - Luiz Henrique Brito Almeida da Silva
 - Shellyda de Fátima Silva Barbosa
 - Marcos Vinícius Nascimento
+- Dayane Camile Bezerra de Lima
